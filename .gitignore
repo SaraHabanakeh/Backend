@@ -1,0 +1,17 @@
+# Ignore node_modules and build-related files
+node_modules/
+my-app/
+public/
+src/
+views/
+db/
+
+# Ignore environment and other config files
+.env
+app.mjs
+changes.txt
+docs.mjs
+note.txt
+ovning.js
+spa.txt
+test.txt
